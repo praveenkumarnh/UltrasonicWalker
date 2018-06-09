@@ -1,4 +1,4 @@
-//START OF SCRIPT
+//START OF SCRIPT 
 
 const int trigPin = 9;                          
 
